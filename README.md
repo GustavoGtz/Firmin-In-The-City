@@ -32,6 +32,8 @@ my portfolio.
 
 ## Usage
 
+https://gustavogtz.github.io/Firmin-In-The-City/
+
 Use arrow keys (or WASD) and action key (e.g., Enter or Space) to guide
 Firmin through the city.\
 Visit each section (Profile, Art, Projects) to learn about me and see my
