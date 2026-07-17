@@ -1,6 +1,6 @@
 # FIRMIN IN THE CITY
 
-![corvex](https://github.com/GustavoGtz/GustavoGtz.github.io/blob/main/resources/inGame.png)
+![gameplay](https://github.com/GustavoGtz/Firmin-In-The-City/blob/main/resources/inGame.png)
 
 
 ## About The Project
@@ -53,7 +53,7 @@ Portfolio Link: https://gustavoGtz.github.io
 
 ## Credits
 
-![corvex](https://github.com/GustavoGtz/GustavoGtz.github.io/blob/main/resources/corvex.gif)
+![corvex](https://github.com/GustavoGtz/Firmin-In-The-City/blob/main/resources/corvex.gif)
 
 -   Thanks to the Phaser community for tutorials, examples, and forums
     that helped bring this project to life.
